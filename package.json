@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Proketo do bytebank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvalhocaio/javascript-orientacao-objetos.git"
+  },
+  "author": "Caio Carvalho",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/carvalhocaio/javascript-orientacao-objetos/issues"
+  },
+  "homepage": "https://github.com/carvalhocaio/javascript-orientacao-objetos#readme"
+}
